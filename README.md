@@ -65,7 +65,7 @@ The system can be enhanced by using Docker for containerization, a NoSQL databas
 
 ```Jupyter Notebook
 git clone https://github.com/Shivam7370/POTATO-Take-Home-Task.git
-cd potato-twitter-analysis
+cd POTATO-Take-Home-Task
 ```
 - **Install Dependencies:**
 
