@@ -64,7 +64,7 @@ The system can be enhanced by using Docker for containerization, a NoSQL databas
 - **Clone the Repository:**
 
 ```Jupyter Notebook
-git clone https://github.com/your-username/potato-twitter-analysis.git
+git clone https://github.com/Shivam7370/POTATO-Take-Home-Task.git
 cd potato-twitter-analysis
 ```
 - **Install Dependencies:**
