@@ -5,8 +5,8 @@
 - [Key Features](#key-features)
 - [Technologies Used](#technologies-used)
 - [Task Breakdown](#task-breakdown)
-- [Contact Information](#contact-information)
 - [Future Improvements](#future-improvements)
+- [Contact Information](#contact-information)
 
 
 ## **Overview**
