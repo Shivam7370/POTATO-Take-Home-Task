@@ -90,6 +90,13 @@ docker run -p 5000:5000 twitter-analysis
 
 Use built-in functions such as tweets_per_day(), unique_users(), and average_likes() to query the data based on specific terms.
 
+## **Future Improvements**
+
+- Integration with Elasticsearch for faster querying on large datasets.
+- Deployment with Streamlit for a more user-friendly interface.
+- Additional API endpoints using Flask for easier integration with external systems.
+- Further optimizations to enhance query performance and scalability.
+
 
 
 ## **Contact Information**
